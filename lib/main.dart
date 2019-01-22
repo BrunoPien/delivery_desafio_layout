@@ -1,6 +1,4 @@
 import 'package:desafios_comida/Inicial/CartScreen.dart';
-import 'package:desafios_comida/Inicial/HomeScreen.dart';
-import 'package:desafios_comida/Pratos/Pratos.dart';
 import 'package:flutter/material.dart';
 
 
