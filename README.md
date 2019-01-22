@@ -1,1 +1,3 @@
-# delivery_desafio_layout
+# Delivery Layout
+
+Layout made for the Flutterando group challenge.
