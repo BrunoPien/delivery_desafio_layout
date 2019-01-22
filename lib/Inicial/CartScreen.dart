@@ -17,7 +17,6 @@ class _CartScreenState extends State<CartScreen> {
           children: <Widget>[
             SizedBox(height: 40.0),
             Row(
-              //crossAxisAlignment: CrossAxisAlignment.center,
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: <Widget>[
                 Text('Cart',
@@ -168,7 +167,6 @@ class _CartScreenState extends State<CartScreen> {
                 style: TextStyle(fontSize: 17.0, color: Colors.grey)),
           ],
         ),
-        //SizedBox(width: 100.0),
         Row(
           mainAxisAlignment: MainAxisAlignment.end,
           children: <Widget>[

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+//Seria a continuação porem é um projeto separado!!
+
 class PratosScreen extends StatefulWidget {
   _PratosScreenState createState() => _PratosScreenState();
 }
