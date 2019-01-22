@@ -10,5 +10,4 @@ Layout made for the Flutterando group challenge.
 # Android
 
 ![image](https://github.com/BrunoPien/delivery_desafio_layout/blob/master/screenshot/WhatsApp%20Image%202019-01-22%20at%2018.59.17.jpeg?raw=true)
-
 ![image](https://github.com/BrunoPien/delivery_desafio_layout/blob/master/screenshot/WhatsApp%20Image%202019-01-22%20at%2018.59.20.jpeg?raw=true)
