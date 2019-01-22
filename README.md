@@ -1,5 +1,5 @@
 # Delivery Layout
-#desafio
+
 Layout made for the Flutterando group challenge.
 
 # iOS
